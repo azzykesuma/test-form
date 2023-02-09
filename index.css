@@ -1,0 +1,13 @@
+.step-1 {
+    background-color : green;
+}
+
+.step-2 {
+    background-color: blue;
+}
+
+.form-line {
+    display : flex;
+    gap : 20px;
+    margin-block : 20px;
+}
